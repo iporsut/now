@@ -11,7 +11,7 @@
 // 	% now Adelaide
 // 	Thu Apr 12 23:26:14 CST 2012 Adelaide
 // 	%
-package main // import "robpike.io/cmd/now"
+package main
 
 import (
 	"fmt"
